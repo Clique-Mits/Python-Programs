@@ -1,5 +1,5 @@
 # Python-Programs
-C-Programs
+
 Upload the programs name as program number and add a Comment line stating the Question.
 
 1."Write a program to print the following pattern
