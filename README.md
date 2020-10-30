@@ -18,13 +18,6 @@ The number of rows is entered by the user"
 
 5.Write a program to print all the factors of a number
 
-6."Write a program to print the following pattern
-
-   *
-   *
-   *
-Size of square to be entered by the user"
-
 7.Write a program to print the prime factorization of a number
 
 8.Write a program to display the roots of a quadratic equation. Even if the roots are complex, they should be displayed in the format A+iB
